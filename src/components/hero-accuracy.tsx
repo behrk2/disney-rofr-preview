@@ -138,7 +138,7 @@ export function HeroAccuracy() {
         <InfoTip label="Prediction Accuracy" />
       </div>
 
-      {/* Supporting stats */}
+      {/* Supporting stats — hidden for preview, uncomment to restore
       <div className="mt-8 grid grid-cols-2 gap-6 sm:grid-cols-4">
         <StatReadout label="Tested" value={data.total.toString()} />
         <StatReadout
@@ -154,6 +154,7 @@ export function HeroAccuracy() {
           value={data.f1 != null ? `${(data.f1 * 100).toFixed(0)}%` : "—"}
         />
       </div>
+      */}
     </div>
   );
 }
