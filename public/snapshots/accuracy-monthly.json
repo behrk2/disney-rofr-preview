@@ -1,0 +1,676 @@
+{
+    "months": [
+        {
+            "year_month": "2018-03",
+            "total": 27,
+            "correct": 24,
+            "accuracy_pct": 88.9,
+            "naive_pct": 70.4
+        },
+        {
+            "year_month": "2018-04",
+            "total": 54,
+            "correct": 48,
+            "accuracy_pct": 88.9,
+            "naive_pct": 66.7
+        },
+        {
+            "year_month": "2018-05",
+            "total": 35,
+            "correct": 30,
+            "accuracy_pct": 85.7,
+            "naive_pct": 74.3
+        },
+        {
+            "year_month": "2018-06",
+            "total": 35,
+            "correct": 31,
+            "accuracy_pct": 88.6,
+            "naive_pct": 91.4
+        },
+        {
+            "year_month": "2018-07",
+            "total": 38,
+            "correct": 32,
+            "accuracy_pct": 84.2,
+            "naive_pct": 81.6
+        },
+        {
+            "year_month": "2018-08",
+            "total": 28,
+            "correct": 27,
+            "accuracy_pct": 96.4,
+            "naive_pct": 82.1
+        },
+        {
+            "year_month": "2018-09",
+            "total": 23,
+            "correct": 17,
+            "accuracy_pct": 73.9,
+            "naive_pct": 87.0
+        },
+        {
+            "year_month": "2018-10",
+            "total": 19,
+            "correct": 16,
+            "accuracy_pct": 84.2,
+            "naive_pct": 89.5
+        },
+        {
+            "year_month": "2018-11",
+            "total": 13,
+            "correct": 11,
+            "accuracy_pct": 84.6,
+            "naive_pct": 69.2
+        },
+        {
+            "year_month": "2018-12",
+            "total": 19,
+            "correct": 12,
+            "accuracy_pct": 63.2,
+            "naive_pct": 57.9
+        },
+        {
+            "year_month": "2019-01",
+            "total": 76,
+            "correct": 58,
+            "accuracy_pct": 76.3,
+            "naive_pct": 67.1
+        },
+        {
+            "year_month": "2019-02",
+            "total": 47,
+            "correct": 32,
+            "accuracy_pct": 68.1,
+            "naive_pct": 63.8
+        },
+        {
+            "year_month": "2019-03",
+            "total": 40,
+            "correct": 29,
+            "accuracy_pct": 72.5,
+            "naive_pct": 85.0
+        },
+        {
+            "year_month": "2019-04",
+            "total": 62,
+            "correct": 51,
+            "accuracy_pct": 82.3,
+            "naive_pct": 69.4
+        },
+        {
+            "year_month": "2019-05",
+            "total": 48,
+            "correct": 40,
+            "accuracy_pct": 83.3,
+            "naive_pct": 81.2
+        },
+        {
+            "year_month": "2019-06",
+            "total": 31,
+            "correct": 23,
+            "accuracy_pct": 74.2,
+            "naive_pct": 64.5
+        },
+        {
+            "year_month": "2019-07",
+            "total": 49,
+            "correct": 35,
+            "accuracy_pct": 71.4,
+            "naive_pct": 67.3
+        },
+        {
+            "year_month": "2019-08",
+            "total": 52,
+            "correct": 31,
+            "accuracy_pct": 59.6,
+            "naive_pct": 90.4
+        },
+        {
+            "year_month": "2019-09",
+            "total": 36,
+            "correct": 18,
+            "accuracy_pct": 50.0,
+            "naive_pct": 88.9
+        },
+        {
+            "year_month": "2019-10",
+            "total": 29,
+            "correct": 22,
+            "accuracy_pct": 75.9,
+            "naive_pct": 100.0
+        },
+        {
+            "year_month": "2019-11",
+            "total": 14,
+            "correct": 11,
+            "accuracy_pct": 78.6,
+            "naive_pct": 71.4
+        },
+        {
+            "year_month": "2019-12",
+            "total": 29,
+            "correct": 21,
+            "accuracy_pct": 72.4,
+            "naive_pct": 93.1
+        },
+        {
+            "year_month": "2020-01",
+            "total": 45,
+            "correct": 35,
+            "accuracy_pct": 77.8,
+            "naive_pct": 93.3
+        },
+        {
+            "year_month": "2020-02",
+            "total": 45,
+            "correct": 31,
+            "accuracy_pct": 68.9,
+            "naive_pct": 93.3
+        },
+        {
+            "year_month": "2020-03",
+            "total": 21,
+            "correct": 21,
+            "accuracy_pct": 100.0,
+            "naive_pct": 100.0
+        },
+        {
+            "year_month": "2020-04",
+            "total": 38,
+            "correct": 26,
+            "accuracy_pct": 68.4,
+            "naive_pct": 100.0
+        },
+        {
+            "year_month": "2020-05",
+            "total": 57,
+            "correct": 57,
+            "accuracy_pct": 100.0,
+            "naive_pct": 100.0
+        },
+        {
+            "year_month": "2020-06",
+            "total": 61,
+            "correct": 61,
+            "accuracy_pct": 100.0,
+            "naive_pct": 100.0
+        },
+        {
+            "year_month": "2020-07",
+            "total": 61,
+            "correct": 53,
+            "accuracy_pct": 86.9,
+            "naive_pct": 88.5
+        },
+        {
+            "year_month": "2020-08",
+            "total": 64,
+            "correct": 56,
+            "accuracy_pct": 87.5,
+            "naive_pct": 79.7
+        },
+        {
+            "year_month": "2020-09",
+            "total": 53,
+            "correct": 48,
+            "accuracy_pct": 90.6,
+            "naive_pct": 77.4
+        },
+        {
+            "year_month": "2020-10",
+            "total": 35,
+            "correct": 28,
+            "accuracy_pct": 80.0,
+            "naive_pct": 77.1
+        },
+        {
+            "year_month": "2020-11",
+            "total": 29,
+            "correct": 20,
+            "accuracy_pct": 69.0,
+            "naive_pct": 75.9
+        },
+        {
+            "year_month": "2020-12",
+            "total": 35,
+            "correct": 27,
+            "accuracy_pct": 77.1,
+            "naive_pct": 74.3
+        },
+        {
+            "year_month": "2021-01",
+            "total": 70,
+            "correct": 58,
+            "accuracy_pct": 82.9,
+            "naive_pct": 75.7
+        },
+        {
+            "year_month": "2021-02",
+            "total": 65,
+            "correct": 54,
+            "accuracy_pct": 83.1,
+            "naive_pct": 84.6
+        },
+        {
+            "year_month": "2021-03",
+            "total": 90,
+            "correct": 78,
+            "accuracy_pct": 86.7,
+            "naive_pct": 82.2
+        },
+        {
+            "year_month": "2021-04",
+            "total": 76,
+            "correct": 57,
+            "accuracy_pct": 75.0,
+            "naive_pct": 78.9
+        },
+        {
+            "year_month": "2021-05",
+            "total": 58,
+            "correct": 52,
+            "accuracy_pct": 89.7,
+            "naive_pct": 81.0
+        },
+        {
+            "year_month": "2021-06",
+            "total": 56,
+            "correct": 44,
+            "accuracy_pct": 78.6,
+            "naive_pct": 80.4
+        },
+        {
+            "year_month": "2021-07",
+            "total": 51,
+            "correct": 46,
+            "accuracy_pct": 90.2,
+            "naive_pct": 84.3
+        },
+        {
+            "year_month": "2021-08",
+            "total": 44,
+            "correct": 38,
+            "accuracy_pct": 86.4,
+            "naive_pct": 77.3
+        },
+        {
+            "year_month": "2021-09",
+            "total": 23,
+            "correct": 14,
+            "accuracy_pct": 60.9,
+            "naive_pct": 60.9
+        },
+        {
+            "year_month": "2021-10",
+            "total": 28,
+            "correct": 24,
+            "accuracy_pct": 85.7,
+            "naive_pct": 57.1
+        },
+        {
+            "year_month": "2021-11",
+            "total": 29,
+            "correct": 18,
+            "accuracy_pct": 62.1,
+            "naive_pct": 79.3
+        },
+        {
+            "year_month": "2021-12",
+            "total": 19,
+            "correct": 13,
+            "accuracy_pct": 68.4,
+            "naive_pct": 84.2
+        },
+        {
+            "year_month": "2022-01",
+            "total": 52,
+            "correct": 41,
+            "accuracy_pct": 78.8,
+            "naive_pct": 75.0
+        },
+        {
+            "year_month": "2022-02",
+            "total": 59,
+            "correct": 51,
+            "accuracy_pct": 86.4,
+            "naive_pct": 59.3
+        },
+        {
+            "year_month": "2022-03",
+            "total": 80,
+            "correct": 68,
+            "accuracy_pct": 85.0,
+            "naive_pct": 56.2
+        },
+        {
+            "year_month": "2022-04",
+            "total": 56,
+            "correct": 45,
+            "accuracy_pct": 80.4,
+            "naive_pct": 62.5
+        },
+        {
+            "year_month": "2022-05",
+            "total": 45,
+            "correct": 39,
+            "accuracy_pct": 86.7,
+            "naive_pct": 60.0
+        },
+        {
+            "year_month": "2022-06",
+            "total": 50,
+            "correct": 37,
+            "accuracy_pct": 74.0,
+            "naive_pct": 62.0
+        },
+        {
+            "year_month": "2022-07",
+            "total": 45,
+            "correct": 36,
+            "accuracy_pct": 80.0,
+            "naive_pct": 77.8
+        },
+        {
+            "year_month": "2022-08",
+            "total": 32,
+            "correct": 25,
+            "accuracy_pct": 78.1,
+            "naive_pct": 59.4
+        },
+        {
+            "year_month": "2022-09",
+            "total": 15,
+            "correct": 9,
+            "accuracy_pct": 60.0,
+            "naive_pct": 86.7
+        },
+        {
+            "year_month": "2022-10",
+            "total": 16,
+            "correct": 12,
+            "accuracy_pct": 75.0,
+            "naive_pct": 93.8
+        },
+        {
+            "year_month": "2022-11",
+            "total": 17,
+            "correct": 13,
+            "accuracy_pct": 76.5,
+            "naive_pct": 100.0
+        },
+        {
+            "year_month": "2022-12",
+            "total": 13,
+            "correct": 12,
+            "accuracy_pct": 92.3,
+            "naive_pct": 100.0
+        },
+        {
+            "year_month": "2023-01",
+            "total": 49,
+            "correct": 49,
+            "accuracy_pct": 100.0,
+            "naive_pct": 100.0
+        },
+        {
+            "year_month": "2023-02",
+            "total": 68,
+            "correct": 68,
+            "accuracy_pct": 100.0,
+            "naive_pct": 100.0
+        },
+        {
+            "year_month": "2023-03",
+            "total": 88,
+            "correct": 88,
+            "accuracy_pct": 100.0,
+            "naive_pct": 100.0
+        },
+        {
+            "year_month": "2023-04",
+            "total": 85,
+            "correct": 85,
+            "accuracy_pct": 100.0,
+            "naive_pct": 100.0
+        },
+        {
+            "year_month": "2023-05",
+            "total": 44,
+            "correct": 44,
+            "accuracy_pct": 100.0,
+            "naive_pct": 100.0
+        },
+        {
+            "year_month": "2023-06",
+            "total": 38,
+            "correct": 38,
+            "accuracy_pct": 100.0,
+            "naive_pct": 100.0
+        },
+        {
+            "year_month": "2023-07",
+            "total": 28,
+            "correct": 28,
+            "accuracy_pct": 100.0,
+            "naive_pct": 100.0
+        },
+        {
+            "year_month": "2023-08",
+            "total": 37,
+            "correct": 37,
+            "accuracy_pct": 100.0,
+            "naive_pct": 100.0
+        },
+        {
+            "year_month": "2023-09",
+            "total": 27,
+            "correct": 27,
+            "accuracy_pct": 100.0,
+            "naive_pct": 100.0
+        },
+        {
+            "year_month": "2023-10",
+            "total": 22,
+            "correct": 21,
+            "accuracy_pct": 95.5,
+            "naive_pct": 95.5
+        },
+        {
+            "year_month": "2023-11",
+            "total": 10,
+            "correct": 10,
+            "accuracy_pct": 100.0,
+            "naive_pct": 90.0
+        },
+        {
+            "year_month": "2023-12",
+            "total": 25,
+            "correct": 24,
+            "accuracy_pct": 96.0,
+            "naive_pct": 96.0
+        },
+        {
+            "year_month": "2024-01",
+            "total": 44,
+            "correct": 40,
+            "accuracy_pct": 90.9,
+            "naive_pct": 88.6
+        },
+        {
+            "year_month": "2024-02",
+            "total": 54,
+            "correct": 49,
+            "accuracy_pct": 90.7,
+            "naive_pct": 94.4
+        },
+        {
+            "year_month": "2024-03",
+            "total": 40,
+            "correct": 34,
+            "accuracy_pct": 85.0,
+            "naive_pct": 92.5
+        },
+        {
+            "year_month": "2024-04",
+            "total": 44,
+            "correct": 37,
+            "accuracy_pct": 84.1,
+            "naive_pct": 86.4
+        },
+        {
+            "year_month": "2024-05",
+            "total": 35,
+            "correct": 32,
+            "accuracy_pct": 91.4,
+            "naive_pct": 94.3
+        },
+        {
+            "year_month": "2024-06",
+            "total": 34,
+            "correct": 33,
+            "accuracy_pct": 97.1,
+            "naive_pct": 97.1
+        },
+        {
+            "year_month": "2024-07",
+            "total": 29,
+            "correct": 26,
+            "accuracy_pct": 89.7,
+            "naive_pct": 89.7
+        },
+        {
+            "year_month": "2024-08",
+            "total": 16,
+            "correct": 15,
+            "accuracy_pct": 93.8,
+            "naive_pct": 93.8
+        },
+        {
+            "year_month": "2024-09",
+            "total": 19,
+            "correct": 17,
+            "accuracy_pct": 89.5,
+            "naive_pct": 84.2
+        },
+        {
+            "year_month": "2024-10",
+            "total": 20,
+            "correct": 18,
+            "accuracy_pct": 90.0,
+            "naive_pct": 90.0
+        },
+        {
+            "year_month": "2024-11",
+            "total": 15,
+            "correct": 12,
+            "accuracy_pct": 80.0,
+            "naive_pct": 93.3
+        },
+        {
+            "year_month": "2024-12",
+            "total": 15,
+            "correct": 13,
+            "accuracy_pct": 86.7,
+            "naive_pct": 93.3
+        },
+        {
+            "year_month": "2025-01",
+            "total": 40,
+            "correct": 38,
+            "accuracy_pct": 95.0,
+            "naive_pct": 97.5
+        },
+        {
+            "year_month": "2025-02",
+            "total": 30,
+            "correct": 27,
+            "accuracy_pct": 90.0,
+            "naive_pct": 96.7
+        },
+        {
+            "year_month": "2025-03",
+            "total": 31,
+            "correct": 29,
+            "accuracy_pct": 93.5,
+            "naive_pct": 80.6
+        },
+        {
+            "year_month": "2025-04",
+            "total": 33,
+            "correct": 32,
+            "accuracy_pct": 97.0,
+            "naive_pct": 97.0
+        },
+        {
+            "year_month": "2025-05",
+            "total": 27,
+            "correct": 27,
+            "accuracy_pct": 100.0,
+            "naive_pct": 100.0
+        },
+        {
+            "year_month": "2025-06",
+            "total": 47,
+            "correct": 45,
+            "accuracy_pct": 95.7,
+            "naive_pct": 95.7
+        },
+        {
+            "year_month": "2025-07",
+            "total": 47,
+            "correct": 46,
+            "accuracy_pct": 97.9,
+            "naive_pct": 97.9
+        },
+        {
+            "year_month": "2025-08",
+            "total": 19,
+            "correct": 18,
+            "accuracy_pct": 94.7,
+            "naive_pct": 94.7
+        },
+        {
+            "year_month": "2025-09",
+            "total": 18,
+            "correct": 16,
+            "accuracy_pct": 88.9,
+            "naive_pct": 94.4
+        },
+        {
+            "year_month": "2025-10",
+            "total": 27,
+            "correct": 26,
+            "accuracy_pct": 96.3,
+            "naive_pct": 100.0
+        },
+        {
+            "year_month": "2025-11",
+            "total": 13,
+            "correct": 10,
+            "accuracy_pct": 76.9,
+            "naive_pct": 76.9
+        },
+        {
+            "year_month": "2025-12",
+            "total": 27,
+            "correct": 26,
+            "accuracy_pct": 96.3,
+            "naive_pct": 96.3
+        },
+        {
+            "year_month": "2026-01",
+            "total": 8,
+            "correct": 8,
+            "accuracy_pct": 100.0,
+            "naive_pct": 100.0
+        },
+        {
+            "year_month": "2026-02",
+            "total": 10,
+            "correct": 4,
+            "accuracy_pct": 40.0,
+            "naive_pct": 40.0
+        }
+    ]
+}

@@ -1,0 +1,251 @@
+{
+    "total": 3700,
+    "correct": 3163,
+    "incorrect": 537,
+    "accuracy_pct": 85.5,
+    "grade": "B",
+    "model_version": "2026-02-26T04:51:19.316162+00:00",
+    "precision": 0.5334,
+    "recall": 0.7243,
+    "f1": 0.6144,
+    "calibration": [
+        {
+            "bucket": "0-10%",
+            "count": 2116,
+            "actual_taken_rate": 0.025,
+            "avg_predicted": 0.0421
+        },
+        {
+            "bucket": "10-20%",
+            "count": 627,
+            "actual_taken_rate": 0.1244,
+            "avg_predicted": 0.1462
+        },
+        {
+            "bucket": "20-30%",
+            "count": 295,
+            "actual_taken_rate": 0.2678,
+            "avg_predicted": 0.2439
+        },
+        {
+            "bucket": "30-40%",
+            "count": 211,
+            "actual_taken_rate": 0.4408,
+            "avg_predicted": 0.3486
+        },
+        {
+            "bucket": "40-50%",
+            "count": 184,
+            "actual_taken_rate": 0.5217,
+            "avg_predicted": 0.4473
+        },
+        {
+            "bucket": "50-60%",
+            "count": 88,
+            "actual_taken_rate": 0.6818,
+            "avg_predicted": 0.5446
+        },
+        {
+            "bucket": "60-70%",
+            "count": 63,
+            "actual_taken_rate": 0.6667,
+            "avg_predicted": 0.6428
+        },
+        {
+            "bucket": "70-80%",
+            "count": 80,
+            "actual_taken_rate": 0.7,
+            "avg_predicted": 0.7603
+        },
+        {
+            "bucket": "80-90%",
+            "count": 18,
+            "actual_taken_rate": 0.8333,
+            "avg_predicted": 0.8119
+        },
+        {
+            "bucket": "90-100%",
+            "count": 18,
+            "actual_taken_rate": 0.6667,
+            "avg_predicted": 0.9362
+        }
+    ],
+    "by_resort": [
+        {
+            "abbreviation": "SSR",
+            "name": "Disney's Saratoga Springs Resort & Spa",
+            "accuracy_pct": 82.0,
+            "grade": "B",
+            "correct": 588,
+            "total": 717,
+            "precision": 0.5857,
+            "recall": 0.7455,
+            "f1": 0.656
+        },
+        {
+            "abbreviation": "AKV",
+            "name": "Disney's Animal Kingdom Villas (Jambo House)",
+            "accuracy_pct": 79.1,
+            "grade": "C",
+            "correct": 525,
+            "total": 664,
+            "precision": 0.4505,
+            "recall": 0.6777,
+            "f1": 0.5412
+        },
+        {
+            "abbreviation": "BLT",
+            "name": "Bay Lake Tower at Disney's Contemporary Resort",
+            "accuracy_pct": 85.9,
+            "grade": "B",
+            "correct": 403,
+            "total": 469,
+            "precision": 0.6,
+            "recall": 0.8523,
+            "f1": 0.7042
+        },
+        {
+            "abbreviation": "BWV",
+            "name": "Disney's BoardWalk Villas",
+            "accuracy_pct": 84.8,
+            "grade": "B",
+            "correct": 318,
+            "total": 375,
+            "precision": 0.4231,
+            "recall": 0.75,
+            "f1": 0.541
+        },
+        {
+            "abbreviation": "PVB",
+            "name": "Disney's Polynesian Villas & Bungalows",
+            "accuracy_pct": 95.0,
+            "grade": "A",
+            "correct": 345,
+            "total": 363,
+            "precision": 0.4,
+            "recall": 0.25,
+            "f1": 0.3077
+        },
+        {
+            "abbreviation": "OKW",
+            "name": "Disney's Old Key West Resort",
+            "accuracy_pct": 80.4,
+            "grade": "B",
+            "correct": 209,
+            "total": 260,
+            "precision": 0.6263,
+            "recall": 0.8267,
+            "f1": 0.7127
+        },
+        {
+            "abbreviation": "BCV",
+            "name": "Disney's Beach Club Villas",
+            "accuracy_pct": 82.5,
+            "grade": "B",
+            "correct": 174,
+            "total": 211,
+            "precision": 0.3514,
+            "recall": 0.5,
+            "f1": 0.4127
+        },
+        {
+            "abbreviation": "VGF",
+            "name": "The Villas at Disney's Grand Floridian Resort & Spa",
+            "accuracy_pct": 88.2,
+            "grade": "B",
+            "correct": 179,
+            "total": 203,
+            "precision": 0.5833,
+            "recall": 0.7,
+            "f1": 0.6363
+        },
+        {
+            "abbreviation": "AUL",
+            "name": "Aulani, Disney Vacation Club Villas",
+            "accuracy_pct": 100.0,
+            "grade": "A",
+            "correct": 134,
+            "total": 134,
+            "precision": null,
+            "recall": null,
+            "f1": null
+        },
+        {
+            "abbreviation": "VGC",
+            "name": "Disney's Grand Californian Hotel & Spa Villas",
+            "accuracy_pct": 94.7,
+            "grade": "A",
+            "correct": 124,
+            "total": 131,
+            "precision": 0.75,
+            "recall": 0.5455,
+            "f1": 0.6316
+        },
+        {
+            "abbreviation": "HHI",
+            "name": "Disney's Hilton Head Island Resort",
+            "accuracy_pct": 95.2,
+            "grade": "A",
+            "correct": 59,
+            "total": 62,
+            "precision": 0.5,
+            "recall": 0.3333,
+            "f1": 0.4
+        },
+        {
+            "abbreviation": "RIV",
+            "name": "Disney's Riviera Resort",
+            "accuracy_pct": 98.1,
+            "grade": "A",
+            "correct": 51,
+            "total": 52,
+            "precision": null,
+            "recall": null,
+            "f1": null
+        },
+        {
+            "abbreviation": "VBR",
+            "name": "Disney's Vero Beach Resort",
+            "accuracy_pct": 91.5,
+            "grade": "A",
+            "correct": 43,
+            "total": 47,
+            "precision": 0.5,
+            "recall": 0.75,
+            "f1": 0.6
+        },
+        {
+            "abbreviation": "BRV",
+            "name": "Boulder Ridge Villas at Disney's Wilderness Lodge",
+            "accuracy_pct": 83.3,
+            "grade": "limited",
+            "correct": 5,
+            "total": 6,
+            "precision": null,
+            "recall": 0.0,
+            "f1": null
+        },
+        {
+            "abbreviation": "CCV",
+            "name": "Copper Creek Villas & Cabins at Disney's Wilderness Lodge",
+            "accuracy_pct": 100.0,
+            "grade": "limited",
+            "correct": 5,
+            "total": 5,
+            "precision": null,
+            "recall": null,
+            "f1": null
+        },
+        {
+            "abbreviation": "VDH",
+            "name": "The Villas at Disneyland Hotel",
+            "accuracy_pct": 100.0,
+            "grade": "limited",
+            "correct": 1,
+            "total": 1,
+            "precision": null,
+            "recall": null,
+            "f1": null
+        }
+    ]
+}
